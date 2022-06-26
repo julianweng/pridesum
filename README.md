@@ -1,4 +1,4 @@
-#**Pridesum**
+# **Pridesum**
 
 #### The Whole is greater than the *Sum* of its DAOs.
 
